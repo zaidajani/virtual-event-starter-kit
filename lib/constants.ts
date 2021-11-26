@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-export const SITE_URL = 'https://vercel.com/solomonshalom/virtual-event-starter-kit/EeLMVcAjuPcKatm9dFy3uNkxuQVz';
+export const SITE_URL = 'https://virtual-event-starter-kit-solomonshalom.vercel.app';
 export const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_ORIGIN || new URL(SITE_URL).origin;
 export const TWITTER_USER_NAME = '@21Kschool';
 export const BRAND_NAME = '21K School';
