@@ -22,7 +22,7 @@ import { COPYRIGHT_HOLDER, SITE_NAME, CODE_OF_CONDUCT, LEGAL_URL, REPO } from '@
 export function HostedByVercel() {
   return (
     <a
-      href="https://vercel.com"
+      href="https://nextjs-portfolio-solomonshalom.vercel.app"
       className={cn(styles['footer-link'], styles['footer-logo'])}
       target="_blank"
       rel="noopener noreferrer"
