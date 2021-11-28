@@ -4,11 +4,11 @@
 
 ### Demo: https://demo.vercel.events
 
-This virtual event starter kit was used to run [Next.js Conf 2020](https://nextjs.org/2020/conf), which had almost 40,000 live attendees. It includes the following features:
+This virtual event starter kit was used to run [Social Fest 2020](https://nextjs.org/2020/conf), which had almost 40,000 live attendees. It includes the following features:
 
 - Multiple stages with an embedded YouTube stream
 - Sponsor expo, including individual virtual booths
-- Career Fair, allowing attendees to network and find job opportunties
+- Career Fair, allowing attendees to network and play games
 - Ticket registration and generation
 - Speaker pages and bios
 - Schedule
