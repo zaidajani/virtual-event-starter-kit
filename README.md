@@ -8,7 +8,6 @@ This virtual event starter kit was used to run [Social Fest 2020](https://nextjs
 
 - Multiple stages with an embedded YouTube stream
 - Sponsor expo, including individual virtual booths
-- Career Fair, allowing attendees to network and play games
 - Ticket registration and generation
 - Speaker pages and bios
 - Schedule
