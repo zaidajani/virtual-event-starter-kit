@@ -24,6 +24,7 @@ This platform is built upon three principles:
 - Framework: [Next.js](https://nextjs.org)
   - [CSS Modules](https://nextjs.org/docs/basic-features/built-in-css-support)
   - [TypeScript](https://nextjs.org/docs/basic-features/typescript)
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - CMS: [Multiple Options](#cms)
 - Videos: [YouTube](https://www.youtube.com)
 - Deployment: [Vercel](https://vercel.com)
