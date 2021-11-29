@@ -20,10 +20,10 @@ import crypto from 'crypto';
 const redis =
   process.env.REDIS_PORT && process.env.REDIS_URL && process.env.REDIS_EMAIL_TO_ID_SECRET
     ? new Redis({
-        port: parseInt(process.env.REDIS_PORT || '30786', 10),
+        port: parseInt(process.env.REDIS_PORT || '', 10),
         host: process.env.REDIS_URL,
         password: process.env.REDIS_PASSWORD,
-        tls: process.env.REDIS_SSL_ENABLED && process.env.REDIS_SSL_ENABLED != 'true' ? {} : undefined
+        tls: process.env.REDIS_SSL_ENABLED && process.env.REDIS_SSL_ENABLED != '' ? {} : undefined
       })
     : undefined;
 
