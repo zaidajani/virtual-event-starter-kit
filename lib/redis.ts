@@ -1,5 +1,5 @@
 /**
- * Copyright 2020 Vercel Inc.
+ * Copyright 2021 Solomon Shalom Lijo.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -20,10 +20,10 @@ import crypto from 'crypto';
 const redis =
   process.env.REDIS_PORT && process.env.REDIS_URL && process.env.REDIS_EMAIL_TO_ID_SECRET
     ? new Redis({
-        port: parseInt(process.env.REDIS_PORT || '', 10),
+        port: parseInt(process.env.REDIS_PORT || '30786', 10),
         host: process.env.REDIS_URL,
         password: process.env.REDIS_PASSWORD,
-        tls: process.env.REDIS_SSL_ENABLED && process.env.REDIS_SSL_ENABLED != '' ? {} : undefined
+        tls: process.env.REDIS_SSL_ENABLED && process.env.REDIS_SSL_ENABLED != 'true' ? {} : undefined
       })
     : undefined;
 
