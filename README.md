@@ -325,4 +325,4 @@ export default async function getDiscordMessage(req: NextApiRequest, res: NextAp
 
 ### Demo
 
-The demo is available at https://demo.vercel.events. The data recorded or used on the demo may be removed by Vercel at any point.
+The website is available at https://virtual-event-starter-kit-solomonshalom.vercel.app/tickets/solomonshalom. The data recorded or used on the site may be removed by me at any point.
