@@ -2,9 +2,9 @@
   "name": "virtual-event-starter-kit",
   "description": "Starter kit for your virtual event.",
   "private": true,
-  "repository": "vercel/virtual-event-starter-kit",
-  "author": "Vercel Inc.",
-  "homepage": "https://demo.vercel.events",
+  "repository": "solomonshalom/virtual-event-starter-kit",
+  "author": "Solomon Shalom Lijo",
+  "homepage": "solomonshalom/virtual-event-starter-kit",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=12"
@@ -13,7 +13,7 @@
     "dev": "next",
     "start": "next start",
     "build": "next build",
-    "license": "addlicense -l apache -c 'Vercel Inc.' components/**/* lib/**/* pages/**/* styles/**/* *.ts *.js"
+    "license": "addlicense -l apache -c 'Solomon Shalom Lijo' components/**/* lib/**/* pages/**/* styles/**/* *.ts *.js"
   },
   "dependencies": {
     "@agility/content-fetch": "1.1.1",
