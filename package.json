@@ -10,7 +10,7 @@
     "node": ">=12"
   },
   "scripts": {
-    "dev": "next",
+    "dev": "next -p 4000",
     "start": "next start",
     "build": "next build",
     "license": "addlicense -l apache -c 'Solomon Shalom Lijo' components/**/* lib/**/* pages/**/* styles/**/* *.ts *.js"
