@@ -55,7 +55,7 @@
   --secondary-color: #8a8f98;
   --sidebar: #0e0e10;
   --header-height: 72px;
-  --brand: #845ef7;
+  --brand: linear-gradient(#FF65FA, #FF7343)
 }
 
 html {
@@ -160,4 +160,11 @@ svg circle {
   width: auto;
   height: auto;
   clip: auto;
+}
+
+span {
+  color: transparent;
+  background-image: linear-gradient(45deg, #FF65FA, #FF7343 );
+  background-clip: text;
+  -webkit-background-clip: text;
 }
