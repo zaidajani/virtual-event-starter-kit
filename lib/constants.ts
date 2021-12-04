@@ -21,9 +21,10 @@ export const BRAND_NAME = '21K School';
 export const SITE_NAME_MULTILINE = ['21K', 'School'];
 export const SITE_NAME = '21K School';
 export const META_DESCRIPTION =
-  'Social Fest is the next big thing #21kschool #SocialFest';
+  'Social Fest is an event where students can socialize and have fun';
 export const SITE_DESCRIPTION =
   'An interactive online experience by the students, free for everyone.';
+export const TWEET_TEXT = 'Social fest is the next big thing';
 export const DATE = 'December 30, 2020';
 export const SHORT_DATE = 'Dec 30 - 9:00am PST';
 export const FULL_DATE = 'Dec 30th 9am Pacific Time (GMT-7)';
