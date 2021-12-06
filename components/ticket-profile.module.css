@@ -63,7 +63,7 @@
 .username {
   display: inline-block;
   font-size: calc(1em * var(--size));
-  color: #FFFFFF;
+  color: #8a8f98;
   display: flex;
   align-items: center;
   margin: 0;
