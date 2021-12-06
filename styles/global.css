@@ -162,9 +162,8 @@ svg circle {
   clip: auto;
 }
 
-span {
-  color: transparent;
-  background-image: #3362de;
+/* span {
+  /* color: transparent; */
+  /* background-image: #3362de;
   background-clip: text;
-  -webkit-background-clip: text;
-}
+  -webkit-background-clip: text; */ 
