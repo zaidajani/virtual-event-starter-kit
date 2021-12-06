@@ -51,6 +51,7 @@
   line-height: 1.15;
   letter-spacing: -0.02em;
   margin: 0;
+  color: white;
 }
 
 @media (min-width: 768px) {
@@ -63,7 +64,7 @@
 .username {
   display: inline-block;
   font-size: calc(1em * var(--size));
-  color: #8a8f98;
+  color: white;
   display: flex;
   align-items: center;
   margin: 0;
